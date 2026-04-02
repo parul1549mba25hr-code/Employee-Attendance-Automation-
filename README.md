@@ -97,8 +97,9 @@ These dashboards help HR managers easily identify attendance patterns and employ
 ## 📷 Project Screenshots
 
 ### n8n Workflow[Uploading My workflow 3.json…]()
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 1 26 51 PM" src="https://github.com/user-attachments/assets/144c654e-12b2-479b-8797-22fe487de2a2" />
 
-![Workflow](workflow-screenshot.png)
+
 
 ### Power BI Dashboard
 ![Dashboard](powerbi-dashboard.png)
