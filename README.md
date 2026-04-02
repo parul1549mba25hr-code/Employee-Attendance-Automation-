@@ -1,16 +1,16 @@
-# 📊 Employee Attendance & Performance Tracker
+#  Employee Attendance & Performance Tracker
 ### AI Automation Project using n8n + Power BI
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates an automated **Employee Attendance Tracking System** using **n8n workflow automation** and **Power BI dashboards**.
 
 The system processes employee attendance data stored in **Google Sheets**, applies rule-based logic to categorize employees based on attendance levels, and generates insights that help HR teams monitor workforce productivity.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 HR departments often track employee attendance manually, which can be time-consuming and prone to errors.
 
 The goal of this project is to:
@@ -20,7 +20,7 @@ The goal of this project is to:
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 The dataset is stored in **Google Sheets** and contains the following fields:
 
 - Employee Name  
@@ -52,7 +52,7 @@ This logic is implemented using the **Switch Node in n8n**.
 
 ---
 
-## 🔄 n8n Workflow Automation
+## n8n Workflow Automation
 The **n8n workflow** automates the processing of employee attendance data.
 
 ### Workflow Steps
@@ -82,19 +82,19 @@ High   Medium    Low
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 The processed dataset is imported into **Power BI** to generate visual insights.
 
 ### Dashboard Visualizations
-- 📊 Bar Chart – Employee attendance comparison
-- 🥧 Pie Chart – Distribution of attendance categories
-- 📈 KPI Indicators – Total employees and attendance insights
+- Bar Chart – Employee attendance comparison
+- Pie Chart – Distribution of attendance categories
+- KPI Indicators – Total employees and attendance insights
 
 These dashboards help HR managers easily identify attendance patterns and employee performance trends.
 
 ---
 
-## 📷 Project Screenshots
+##  Project Screenshots
 
 ### n8n Workflow[Uploading My workflow 3.json…]()
 <img width="1440" height="900" alt="Screenshot 2026-04-02 at 1 26 51 PM" src="https://github.com/user-attachments/assets/144c654e-12b2-479b-8797-22fe487de2a2" />
@@ -107,7 +107,7 @@ These dashboards help HR managers easily identify attendance patterns and employ
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Employees are automatically categorized into High, Medium, and Low attendance groups.
 - HR teams can quickly identify employees with poor attendance.
 - Automation reduces manual effort in tracking attendance data.
@@ -115,7 +115,7 @@ These dashboards help HR managers easily identify attendance patterns and employ
 
 ---
 
-## 🔮 Future HR Insights
+##  Future HR Insights
 This project can be extended with advanced HR analytics features such as:
 
 - Predicting employee performance using AI models
@@ -128,7 +128,7 @@ These enhancements can help organizations make **data-driven HR decisions in the
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **n8n** – Workflow automation
 - **Google Sheets** – Dataset storage
 - **Power BI** – Data visualization
@@ -136,7 +136,7 @@ These enhancements can help organizations make **data-driven HR decisions in the
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 - Automated attendance categorization
 - Processed employee dataset
 - HR insights through visual dashboards
@@ -144,6 +144,6 @@ These enhancements can help organizations make **data-driven HR decisions in the
 
 ---
 
-## 👩‍💻 Author
+##  Author
 AI Business Application Project  
 Employee Attendance & Performance Tracker
